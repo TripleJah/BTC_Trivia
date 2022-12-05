@@ -6,7 +6,7 @@ var appTheme = ThemeData(
     color: Colors.black87,
   ),
 
-  fontFamily: GoogleFonts.numans().fontFamily,
+  fontFamily: GoogleFonts.nunito().fontFamily,
   
   primarySwatch: Colors.yellow,
   brightness: Brightness.light,
@@ -18,6 +18,7 @@ var appTheme = ThemeData(
       fontWeight: FontWeight.bold,
     ),
     headline1: TextStyle(
+
       fontWeight: FontWeight.bold,
     ),
     subtitle1: TextStyle(
