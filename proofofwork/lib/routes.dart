@@ -6,7 +6,7 @@ import 'package:proof_of_work/login/login.dart';
 import 'package:proof_of_work/topics/topics.dart';
 
 var appRoutes = {
-  '/': (context) => const HomeScreen(),
+  '/': (context) => const Homescreen(),
   '/login': (context) => const LoginScreen(),
   '/profile': (context) => const ProfileScreen(),
   '/topics': (context) => const TopicsScreen(),

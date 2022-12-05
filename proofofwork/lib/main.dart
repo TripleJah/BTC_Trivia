@@ -7,9 +7,9 @@ import 'package:proof_of_work/theme.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
+  Firebase.initializeApp();
   runApp(App());
 }
-
 /// We are using a StatefulWidget such that we only create the [Future] once,
 /// no matter how many times our widget rebuild.
 /// If we used a [StatelessWidget], in the event where [App] is rebuilt, that
