@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:proof_of_work/services/auth.dart';
 
@@ -61,7 +59,7 @@ class LoginButton extends StatelessWidget {
           padding: const EdgeInsets.all(24),
           backgroundColor: color,
         ),
-        onPressed: (() => loginMethod),
+        onPressed: () => loginMethod(),
         label: Text(text, textAlign: TextAlign.center),
       ),
     );
