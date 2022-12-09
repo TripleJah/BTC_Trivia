@@ -1,0 +1,69 @@
+id: history-important
+title: 'Cultural Dates'
+description: 'Bitcoiners have some weird milestones to celebrate!'
+topic: history
+
+questions:
+    -
+        text: 'The first real world transaction was for _________ and cost?'
+        options:
+            -
+                correct: false
+                value: 'A used BMW for 5000BTC, on June 12th, 2011'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'Two pizzas, costing 10,000BTC, on May 22nd, 2010'
+                detail: 'Yep! As of December 2022, that is now worth more than 170 million!'
+            -
+                correct: false
+                value: 'A bicycle, costing 300BTC, on October 23rd, 2012'
+                detail: 'Nope, try again!'
+    -
+        text: 'Which rapper was the first to accept Bitcoin in 2014? '
+        options:
+            -
+                correct: false
+                value: 'Kendrick Lamar'
+                detail: 'Try again!'
+            -
+                correct: false
+                value: 'Drake'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: '50 Cent'
+                detail: 'Nice one!'
+    -
+
+        text: 'When did the blocksize wars begin?'
+        options:
+            -
+                correct: false
+                value: '2015'
+                detail: 'Nope, but close!'
+            -
+                correct: true
+                value: '2017'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: '2018'
+                detail: 'Nope, try again!'
+    -
+
+    text: 'How often is the halving celebrated?'
+        options:
+            -
+                correct: false
+                value: 'Every 4 years.'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'Once a year instead of New Years.'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'Aproximately every 4 years(210,000 blocks)'
+                detail: 'Yes!'
+    -

@@ -1,0 +1,66 @@
+id: history-important
+title: 'Important History'
+description: 'Bitcoin has been around for a long time now!'
+topic: history
+
+questions:
+    -
+        text: 'When was the Bitcoin white paper released to the cypherpunk mailing list?'
+        options:
+            -
+                correct: false
+                value: '2009'
+                detail: 'Nope, but close!'
+            -
+                correct: true
+                value: 'Halloween, 2008'
+                detail: 'Nailed It!'
+            -
+                correct: false
+                value: '2012'
+                detail: 'Nope, try again!'
+    -
+        text: 'When was the Bitcoin source code released?'
+        options:
+            -
+                correct: true
+                value: 'January 3rd, 2009'
+                detail: 'Yep!'
+            -
+                correct: false
+                value: 'December 19th, 2008'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'January 23rd, 2010'
+                detail: 'Nope, try again!'
+    -
+
+        text: 'In 2021, which country became the first to legislate Bitcoin as legal tender?'
+        options:
+            -
+                correct: false
+                value: 'Madeira'
+                detail: 'Nope, but close!'
+            -
+                correct: true
+                value: 'El Salvador'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'Nigeria'
+                detail: 'Nope, try again!'
+    -
+
+    text: 'True or False, the last bitcoin will be mined around 2140'
+        options:
+            -
+                correct: false
+                value: 'False'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'True'
+                detail: 'Yes! Although this in approximate guess.'
+    -
+

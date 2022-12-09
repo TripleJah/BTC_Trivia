@@ -1,0 +1,14 @@
+id: history
+img: history.png
+title: 'Bitcoin History'
+quizzes:
+    -
+        id: history-important
+        title: Basic History
+        description: 'Important dates in Bitcoin history'   
+    -
+        id: history-cultural
+        title: Pleb History
+        description: 'Cultural Dates in Bitcoin history'
+        
+

@@ -1,0 +1,99 @@
+id: usage-advanced
+title: 'Advanced Usage'
+description: 'Lets dig deeper'
+topic: usage
+questions:
+    -
+        text: 'How many blocks between Bitcoin halvings?'
+        options:
+            -
+                correct: false
+                value: '100,000 Blocks'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: '630,000' Blocks'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: '210,000 Blocks'
+                detail: 'Correct!'
+    -
+        text: 'How often is does the difficulty adjustment occur?'
+        options:
+            -
+                correct: true
+                value: 'Every 2016 Blocks'
+                detail: "Yep!"
+            -
+                correct: false
+                value: 'Every 4032 Blocks'
+                detail: 'No, try again!'
+            -
+                correct: false
+                value: 'Every 1008 Blocks'
+                detail: 'Nope!'
+    -
+        text: 'During the blocksize wars, some chose to fork Bitcoin into?'
+        options:
+            -
+                correct: false
+                value: 'BSV then Bcash'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'Bcash then BSV'
+                detail: 'Exactly!'
+            -
+                correct: false
+                value: 'Bitcoin was forked from BSV'
+                detail: 'Nope!'
+    -
+        text: 'What is a CoinJoin?'
+        options:
+            -
+                correct: false
+                value: 'A mixing service for bitcoin'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'A way to join one coin to another'
+                detail: 'Nope! Try again!'
+            -
+                correct: false
+                value: 'A hot wallet with multiple users'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'A collaborative spend protocol'
+                detail: 'Yes!'
+    -
+        text: 'What is KYC?'
+        options:
+            -
+                correct: false
+                value: 'Know Your Coins'
+                detail: 'Nope, try again!'
+            -
+                correct: true
+                value: 'Know Your Customer'
+                detail: 'Yes!'
+            -
+                correct: false
+                value: 'Know Your Collaborator'
+                detail: 'Try again!'
+    -
+        text: 'What is AML'
+        options:
+            -
+                correct: false
+                value: 'Auto Money Leveraging'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'Auto Mixing Latency'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'Anti Money Laundering'
+                detail: 'Exactly!'

@@ -1,0 +1,99 @@
+id: usage-basics
+title: 'Basic Usage'
+description: 'Do you know your way around?'
+topic: usage
+questions:
+    -
+        text: 'What is a seed phrase?'
+        options:
+            -
+                correct: false
+                value: 'A secret spoken handshake between Bitcoiners'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'A long password'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'A sequence of words that can regenerate your private key'
+                detail: 'Correct!'
+    -
+        text: 'What is the difference between a hot wallet and a cold wallet?'
+        options:
+            -
+                correct: false
+                value: 'A bitcoiner miner that produces heat, another that produces a temperature drop'
+                detail: "Nope!"
+            -
+                correct: false
+                value: 'Cold wallets are exposed to the internet, hot wallets are not'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'Hot wallets are exposed to the internet, cold wallets are not'
+                detail: 'Correct!'
+    -
+        text: 'What is the safest way to store Bitcoin?'
+        options:
+            -
+                correct: false
+                value: 'On an exchange'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'In a permanently offline device/s'
+                detail: 'Exactly!'
+            -
+                correct: false
+                value: 'With some I trust, like my girlfriend or lawyer'
+                detail: 'Nope!'
+    -
+        text: 'What does UTXO stand for?'
+        options:
+            -
+                correct: true
+                value: 'Unspent Transaction Output'
+                detail: 'Yes!'
+            -
+                correct: false
+                value: 'User Transaction Origin'
+                detail: 'Nope! Try again!'
+            -
+                correct: false
+                value: 'Universal Timestamp Output'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'User Timestamp Origin'
+                detail: 'Nope! Try again!'
+    -
+        text: 'What is the current block reward for miners?'
+        options:
+            -
+                correct: false
+                value: '25 BTC'
+                detail: 'Nope, try again!'
+            -
+                correct: false
+                value: '50 BTC'
+                detail: 'No, this was during the first epoch.'
+            -
+                correct: true
+                value: '6.25 BTC'
+                detail: 'Yes! After the next halving, this will go down to 3.125 BTC '
+    -
+        text: 'What is a public key?'
+        options:
+            -
+                correct: false
+                value: 'A key that airdrops bitcoin to the public'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'A key that I can take out with me when I leave home'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'A string of letter and numbers that lets you receive bitcoin'
+                detail: 'Exactly'

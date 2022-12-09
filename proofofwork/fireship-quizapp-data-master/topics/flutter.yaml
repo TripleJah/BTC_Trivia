@@ -1,0 +1,14 @@
+id: basics
+img: basics.png
+title: 'Bitcoin Basics'
+quizzes:
+    -
+        id: basics-intro
+        title: Intro to Bitcoin
+        description: 'Stuff every beginner should know!'
+    -
+        id: basic-func
+        title: Functional Bitcoin
+        description: 'Lets quiz you on the mechanics of Bitcoin!' 
+        
+

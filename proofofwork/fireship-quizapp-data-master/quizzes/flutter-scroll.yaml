@@ -1,0 +1,85 @@
+id: basics-intro
+title: 'Basic Bitcoin'
+description: 'Stuff every beginner should know!'
+topic: basics
+
+questions:
+    -
+        text: 'At its most basic, Bitcoin is:'
+        options:
+            -
+                correct: false
+                value: 'A scam!'
+                detail: 'Nope! Maybe you are thinking of Ethereum?'
+            -
+                correct: true
+                value: 'Money'
+                detail: 'Correct! Bitcoin is electronic peer to peer cash'
+            -
+                correct: false
+                value: 'A way to buy drugs on the dark web'
+                detail: 'Bitcoin has been used for this, but it is by no means its only use case!'
+            - 
+                correct: false
+                value: 'A way for me to get rich from Jpegs'
+                detail: 'Nope! Good luck with that!'
+    -
+        text: 'Who created Bitcoin?'
+        options:
+            -
+                correct: false
+                value: 'Elon Musk'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'A person or persons called Satoshi Nakamoto'
+                detail: 'Yes! Their true identity has never been revealed!'
+            - 
+                correct: false
+                value: 'The CIA'
+                detail: 'Nope! Try again'
+            -
+                correct: false
+                value: 'Bill Gates'
+                detail: 'Nope!'
+    -
+        text: 'How many bitcoin will there ever be?'
+        options:
+            -
+                correct: false
+                value: '1 million per year.'
+                detail: 'Nope! Try again!'
+            -
+                correct: false
+                value: '100 Million'
+                detail: "Nope!"
+            -
+                correct: true
+                value: '21 Million'
+                detail: 'Correct!'
+    -
+        text: 'Bitcoins are divisible into how many smaller units?'
+        options:
+            -
+                correct: false
+                value: '21 million smaller units'
+                detail: 'Nope! Try again!'
+            -
+                correct: true
+                value: '100 Million smaller units'
+                detail: "Exactamente, these are called Satoshis"
+            -
+                correct: false
+                value: '100 smaller units'
+                detail: 'Nope!'
+    -
+        text: 'True or False, Bitcoin transactions are reversible.'
+        options:
+            -
+                correct: true
+                value: 'False'
+                detail: "Correct!"
+            -
+                correct: false
+                value: 'True'
+                detail: 'Nope! Confirmed Bitcoin transactions cannot be changed!'

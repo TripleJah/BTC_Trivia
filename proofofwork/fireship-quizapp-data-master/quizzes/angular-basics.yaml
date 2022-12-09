@@ -1,0 +1,101 @@
+id: basic-func
+title: 'Bitcoin under the hood'
+description: 'How does it work?!'
+topic: basics
+questions:
+    -
+        text: 'The technology underlying bitcoin is known as:'
+        options:
+            -
+                correct: false
+                value: 'The ledger'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'Magic Internet Money'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'Blockchain'
+                detail: 'Correct!'
+    -
+        text: 'What is a block?'
+        options:
+            -
+                correct: true
+                value: 'A group of transactions added to the blockchain ledger'
+                detail: 'Correct!'
+            -
+                correct: false
+                value: 'A bitcoin transaction'
+                detail: 'No, try again!'
+            -
+                correct: false
+                value: 'A bitcoin miner'
+                detail: 'Nope!'
+    -
+        text: 'What form of cryptography does Bitcoin use?'
+        options:
+            -
+                correct: false
+                value: 'SHA1'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'SHA512'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'SHA256'
+                detail: 'Correct! This stands for 256 bit Secure Hash Algorithim'
+    -
+        text: 'What is a Bitcoin Wallet/Signing Device?'
+        options:
+            -
+                correct: false
+                value: 'An app with an exchange on my phone.'
+                detail: 'Nope!'
+            -
+                correct: true
+                value: 'A program or device that allows you to recieve and send Bitcoin.'
+                detail: 'Yes!'
+            -
+                correct: false
+                value: 'A function that distributes Bitcoins.'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'An new version of an ATM that accepts bitcoin.'
+                detail: 'Nope! Try again!'
+    -
+        text: 'What is a private key?'
+        options:
+            -
+                correct: true
+                value: ' A string of letter and numbers that lets you spend your bitcoin.'
+                detail: 'Yep!'
+            -
+                correct: false
+                value: 'A password that lets me access my hardware wallet'
+                detail: 'No, try again!'
+            -
+                correct: false
+                value: 'A key that lets me talk to other Bitcoiners privately'
+                detail: 'Nope!'
+    -
+        text: 'What is a public key?'
+        options:
+            -
+                correct: false
+                value: 'A key that airdrops bitcoin to the public'
+                detail: 'Nope!'
+            -
+                correct: false
+                value: 'A key that I can take out with me when I leave home'
+                detail: 'No, try again!'
+            -
+                correct: true
+                value: 'A string of letter and numbers that lets you receive bitcoin'
+                detail: 'Exactly'
+
+        
